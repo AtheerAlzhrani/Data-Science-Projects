@@ -1,2 +1,2 @@
-# SDA-Data-Science-Program-Projects
-This repository contains my projects for the data science training program in partnership with the Ministry of Communications and INE.
+# Data-Science-Projects
+This repository contains my data science projects, where I utilized tools and libraries such as Spark, Python, Pandas, NumPy, Matplotlib, Seaborn, and performed Exploratory Data Analysis (EDA).
