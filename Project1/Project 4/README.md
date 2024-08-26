@@ -1,5 +1,5 @@
 # Telcom customer churn: Predicting Churn for a company that provides phone and Internet services
-![Uploading image.png…]()
+
 
 ## Installations
 * NumPy
